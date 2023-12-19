@@ -1,0 +1,9 @@
+JOB_NAME,JOB_URL,JOB_STATUS
+"('first-job',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/first-job/,blue
+"('geo-app',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/geo-app/,blue
+"('maven-project',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/maven-project/,blue
+"('pipeline-job',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/pipeline-job/,notbuilt
+"('terraform-code',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/terraform-code/,blue
+"('terraform-code1',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/terraform-code1/,blue
+"('terraform-code2',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/terraform-code2/,blue
+"('test-job',)",http://ec2-34-230-22-11.compute-1.amazonaws.com:8080/job/test-job/,blue
